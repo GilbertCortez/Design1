@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Unknown Project",
+    "name": "Design1",
     "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,9 @@
     "siteFonts": [],
     "uniqCompNum": 22,
     "versionPublish": "4.9.1",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/cvo-iconlogo-128x128-1.png",
+    "noImageResize": ""
   },
   "pages": {
     "LoginSignup Page.html": {
